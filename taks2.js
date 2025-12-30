@@ -1,4 +1,4 @@
-//2727
+//2727 Is Object Empty
 //soal
 // Given an object or an array, return if it is empty.
 // An empty object contains no key-value pairs.
